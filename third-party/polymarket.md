@@ -1,4 +1,4 @@
-# Polymarket — Data Agreement
+# Polymarket - Data Agreement
 
 ## Provider
 Polymarket, Inc.

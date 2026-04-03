@@ -1,4 +1,4 @@
-# GDELT Project — Data Agreement
+# GDELT Project - Data Agreement
 
 ## Provider
 The GDELT Project (supported by Google Jigsaw)

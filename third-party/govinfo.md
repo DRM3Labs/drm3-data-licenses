@@ -1,4 +1,4 @@
-# GovInfo API — Data Agreement
+# GovInfo API - Data Agreement
 
 ## Provider
 Government Publishing Office (GPO)

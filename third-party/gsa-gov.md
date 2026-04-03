@@ -1,4 +1,4 @@
-# GSA .gov Domain List — Data Agreement
+# GSA .gov Domain List - Data Agreement
 
 ## Provider
 Cybersecurity and Infrastructure Security Agency (CISA), General Services Administration (GSA)

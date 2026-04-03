@@ -1,4 +1,4 @@
-# US Census Bureau API — Data Agreement
+# US Census Bureau API - Data Agreement
 
 ## Provider
 U.S. Census Bureau, Department of Commerce

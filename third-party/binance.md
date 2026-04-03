@@ -1,4 +1,4 @@
-# Binance — Data Agreement
+# Binance - Data Agreement
 
 ## Provider
 Binance Holdings Ltd.

@@ -1,4 +1,4 @@
-# Etherscan — Data Agreement
+# Etherscan - Data Agreement
 
 ## Provider
 Etherscan.io (Etherscan Pte Ltd)

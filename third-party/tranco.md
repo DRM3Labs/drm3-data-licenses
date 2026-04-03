@@ -1,4 +1,4 @@
-# Tranco — Data Agreement
+# Tranco - Data Agreement
 
 ## Provider
 Tranco (academic research project by imec-DistriNet, KU Leuven)

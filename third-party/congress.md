@@ -1,4 +1,4 @@
-# Congress.gov API — Data Agreement
+# Congress.gov API - Data Agreement
 
 ## Provider
 Library of Congress

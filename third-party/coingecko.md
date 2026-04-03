@@ -1,4 +1,4 @@
-# CoinGecko — Data Agreement
+# CoinGecko - Data Agreement
 
 ## Provider
 Gecko Labs Pte. Ltd.

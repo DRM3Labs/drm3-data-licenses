@@ -1,4 +1,4 @@
-# Federal Register API — Data Agreement
+# Federal Register API - Data Agreement
 
 ## Provider
 Office of the Federal Register, National Archives and Records Administration (NARA) / Government Publishing Office (GPO)

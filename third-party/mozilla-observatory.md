@@ -1,4 +1,4 @@
-# Mozilla Observatory — Data Agreement
+# Mozilla Observatory - Data Agreement
 
 ## Provider
 Mozilla Foundation
@@ -10,7 +10,7 @@ https://observatory.mozilla.org/
 https://www.mozilla.org/en-US/about/legal/terms/mozilla/ (general Mozilla terms)
 
 ## License
-MPL 2.0 (Mozilla Public License 2.0) — open source project
+MPL 2.0 (Mozilla Public License 2.0) - open source project
 
 ## Data We Collect
 Website security scan results via the Mozilla Observatory API. Includes grades (A+ through F), scores, and individual test results for HTTP headers (Content-Security-Policy, Strict-Transport-Security, X-Frame-Options, etc.), TLS configuration, and other web security best practices.

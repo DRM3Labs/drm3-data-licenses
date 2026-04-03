@@ -1,4 +1,4 @@
-# Google Safe Browsing — Data Agreement
+# Google Safe Browsing - Data Agreement
 
 ## Provider
 Google LLC

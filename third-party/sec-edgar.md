@@ -1,4 +1,4 @@
-# SEC EDGAR — Data Agreement
+# SEC EDGAR - Data Agreement
 
 ## Provider
 U.S. Securities and Exchange Commission (SEC)

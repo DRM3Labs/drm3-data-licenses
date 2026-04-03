@@ -1,4 +1,4 @@
-# FDIC BankFind API — Data Agreement
+# FDIC BankFind API - Data Agreement
 
 ## Provider
 Federal Deposit Insurance Corporation (FDIC)

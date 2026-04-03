@@ -1,4 +1,4 @@
-# 3P Signals A — Data Source Licenses
+# 3P Signals A - Data Source Licenses
 
 Data source licenses and terms of use for [3P Signals](https://signals.data.drm3.network), DRM3's third-party data aggregator.
 
@@ -34,11 +34,11 @@ Every data source we ingest is documented here with its license type, restrictio
 
 ## License Categories
 
-- **US Gov Public Domain** — Federal government data, no restrictions
-- **CC BY 4.0** — Free to use with attribution (Open-Meteo)
-- **API ToS** — Proprietary terms, typically allows display but not raw resale
-- **Free / Academic** — Open for non-commercial use, attribution expected
-- **MPL 2.0** — Mozilla Public License, open source
+- **US Gov Public Domain** - Federal government data, no restrictions
+- **CC BY 4.0** - Free to use with attribution (Open-Meteo)
+- **API ToS** - Proprietary terms, typically allows display but not raw resale
+- **Free / Academic** - Open for non-commercial use, attribution expected
+- **MPL 2.0** - Mozilla Public License, open source
 
 ## How We Use This Data
 

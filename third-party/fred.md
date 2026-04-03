@@ -1,4 +1,4 @@
-# FRED (Federal Reserve Economic Data) — Data Agreement
+# FRED (Federal Reserve Economic Data) - Data Agreement
 
 ## Provider
 Federal Reserve Bank of St. Louis

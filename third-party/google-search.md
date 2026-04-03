@@ -1,4 +1,4 @@
-# Google Custom Search — Data Agreement
+# Google Custom Search - Data Agreement
 
 ## Provider
 Google LLC

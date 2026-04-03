@@ -1,4 +1,4 @@
-# USGS Water Services — Data Agreement
+# USGS Water Services - Data Agreement
 
 ## Provider
 U.S. Geological Survey (USGS), Department of the Interior

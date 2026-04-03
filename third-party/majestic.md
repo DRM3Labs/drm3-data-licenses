@@ -1,4 +1,4 @@
-# Majestic Million — Data Agreement
+# Majestic Million - Data Agreement
 
 ## Provider
 Majestic-12 Ltd.

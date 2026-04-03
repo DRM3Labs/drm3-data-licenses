@@ -1,4 +1,4 @@
-# NASDAQ Listed Companies — Data Agreement
+# NASDAQ Listed Companies - Data Agreement
 
 ## Provider
 Nasdaq, Inc.

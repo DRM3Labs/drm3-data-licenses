@@ -1,4 +1,4 @@
-# GitHub Activity — Data Agreement
+# GitHub Activity - Data Agreement
 
 ## Provider
 GitHub, Inc. (Microsoft subsidiary)

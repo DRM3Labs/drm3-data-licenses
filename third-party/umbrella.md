@@ -1,4 +1,4 @@
-# Cisco Umbrella — Data Agreement
+# Cisco Umbrella - Data Agreement
 
 ## Provider
 Cisco Systems, Inc. (OpenDNS / Umbrella)

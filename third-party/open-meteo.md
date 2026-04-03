@@ -1,4 +1,4 @@
-# Open-Meteo — Data Agreement
+# Open-Meteo - Data Agreement
 
 ## Provider
 Open-Meteo (open source project by Patrick Zippenfenig)

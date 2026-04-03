@@ -1,4 +1,4 @@
-# Reddit — Data Agreement
+# Reddit - Data Agreement
 
 ## Provider
 Reddit, Inc.
