@@ -59,6 +59,15 @@ Every data source ingested by Signals is documented here with its license type, 
 | [Mozilla Observatory](third-party/mozilla-observatory.md) | MPL 2.0 | No | No | [observatory.mozilla.org](https://observatory.mozilla.org/) |
 | [Tranco](third-party/tranco.md) | Free / Academic | No | Yes | [tranco-list.eu](https://tranco-list.eu/) |
 
+### Other (2 sources)
+
+| Source | License | Key | Attribution | Terms |
+|--------|---------|-----|-------------|-------|
+| [CoinGecko](third-party/coingecko.md) | API ToS | Yes | Yes | [coingecko.com/terms](https://www.coingecko.com/en/terms) |
+| [Google Custom Search](third-party/google-search.md) | API ToS | Yes | Yes | [developers.google.com](https://developers.google.com/custom-search/v1/terms) |
+
+**Total: 25 sources across 7 categories.**
+
 ## License Types
 
 - **US Gov Public Domain** - Federal government data, no restrictions
