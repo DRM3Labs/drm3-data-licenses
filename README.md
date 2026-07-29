@@ -48,6 +48,12 @@ see the carve-out in the source doc before adding them.
 | [GitHub Activity](third-party/github-activity.md) | API ToS | No | Yes | [docs.github.com](https://docs.github.com/en/rest/overview/resources-in-the-rest-api) |
 | [Reddit](third-party/reddit.md) | API ToS | No | Yes | [reddit.com/wiki/api-terms](https://www.reddit.com/wiki/api-terms) |
 
+### AI (1 source)
+
+| Source | License | Key | Attribution | Terms |
+|--------|---------|-----|-------------|-------|
+| [Venice AI Catalog](third-party/venice.md) | API ToS (factual metadata) | No | No | [venice.ai/legal/tos](https://venice.ai/legal/tos) |
+
 ### Prediction (1 source)
 
 | Source | License | Key | Attribution | Terms |
@@ -71,7 +77,7 @@ see the carve-out in the source doc before adding them.
 | [CoinGecko](third-party/coingecko.md) | API ToS | Yes | Yes | [coingecko.com/terms](https://www.coingecko.com/en/terms) |
 | [Google Custom Search](third-party/google-search.md) | API ToS | Yes | Yes | [developers.google.com](https://developers.google.com/custom-search/v1/terms) |
 
-**Total: 26 sources across 7 categories.**
+**Total: 27 sources across 8 categories.**
 
 ## License Types
 
