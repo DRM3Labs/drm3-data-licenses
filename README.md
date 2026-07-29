@@ -6,7 +6,7 @@ Every data source ingested by Signals is documented here with its license type, 
 
 ## Sources by Category
 
-### Government (7 sources)
+### Government (8 sources)
 
 | Source | License | Key | Attribution | Terms |
 |--------|---------|-----|-------------|-------|
@@ -17,6 +17,11 @@ Every data source ingested by Signals is documented here with its license type, 
 | [GSA .gov](third-party/gsa-gov.md) | US Gov Public Domain | No | No | [gsa.gov](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy) |
 | [SEC EDGAR](third-party/sec-edgar.md) | US Gov Public Domain | No | No | [sec.gov/edgar](https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm) |
 | [US Census](third-party/census.md) | US Gov Public Domain | No | No | [census.gov/data](https://www.census.gov/data/developers.html) |
+| [USAspending.gov](third-party/usaspending.md) | CC0 1.0 Universal | No | No* | [api.usaspending.gov](https://api.usaspending.gov/api/v2/) |
+
+\* No attribution for the CC0 body of the data. Award/recipient-level records carry
+embedded Dun & Bradstreet fields under their own attribution notice - not ingested today,
+see the carve-out in the source doc before adding them.
 
 ### Financial (4 sources)
 
@@ -66,7 +71,7 @@ Every data source ingested by Signals is documented here with its license type, 
 | [CoinGecko](third-party/coingecko.md) | API ToS | Yes | Yes | [coingecko.com/terms](https://www.coingecko.com/en/terms) |
 | [Google Custom Search](third-party/google-search.md) | API ToS | Yes | Yes | [developers.google.com](https://developers.google.com/custom-search/v1/terms) |
 
-**Total: 25 sources across 7 categories.**
+**Total: 26 sources across 7 categories.**
 
 ## License Types
 
